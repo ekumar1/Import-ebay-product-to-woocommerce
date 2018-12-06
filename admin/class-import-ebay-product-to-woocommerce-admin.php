@@ -461,7 +461,7 @@ class Import_Ebay_Product_To_Woocommerce_Admin {
             $compatibilityLevel = 647;
             $endpoint = "http://open.api.ebay.com/shopping";
             $headers[] = "X-EBAY-API-CALL-NAME: $callName";
-            $headers[] = "X-EBAY-API-APP-ID: EKumarSh-FindProd-PRD-d45f30466-0ecbcc36";
+            $headers[] = "X-EBAY-API-APP-ID: APP ID Here";
             $headers[] = "X-EBAY-API-VERSION: $compatibilityLevel";
             $headers[] = "X-EBAY-API-REQUEST-ENCODING: XML";
             $headers[] = "X-EBAY-API-RESPONSE-ENCODING: XML";
